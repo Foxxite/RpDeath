@@ -1,0 +1,6 @@
+name: RPDeath
+version: "1.0"
+api-version: "1.14"
+author: Foxxite
+main: com.foxxite.rpdeath.RPDeath
+description: This small plugin will add a delay on respawning
